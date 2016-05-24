@@ -1,37 +1,37 @@
 a {
-    text-decoration: none;
+	text-decoration: none;
 }
 
-#old_games > ul {
-    list-style-type: none;
+#old-games > ul {
+	list-style-type: none;
 }
 
 :link {
-    color: #00067C;
+	color: #00067C;
 }
 
 :visited {
-    color: hsl(272, 100%, 20%);
+	color: hsl(272, 100%, 20%);
 }
 
 body {
-    background-image: url('low_contrast_linen.png');
+	background-image: url('background.png');
 }
 
-#bg {
-    width: 100%;
-    height: 100%;
-    background-image: url('logo_transparent.svg');
-    background-repeat: no-repeat;
-    background-position: center;
+#background {
+	width: 100%;
+	height: 100%;
+	background-image: url('logo.svg');
+	background-repeat: no-repeat;
+	background-position: center;
 }
 
 #content {
-    font-family: 'Lato', sans-serif;
-    font-size: 1.3em;
-    color: hsl(248, 100%, 5%);
-    height: 100%;
-    max-width: 600px;
-    margin: 0% auto;
-    padding-top: 5%;
+	font-family: 'Lato', sans-serif;
+	font-size: 1.3em;
+	color: hsl(248, 100%, 5%);
+	height: 100%;
+	max-width: 600px;
+	margin: 0% auto;
+	padding-top: 5%;
 }
