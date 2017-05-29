@@ -1,2 +1,3 @@
-arkeindustries.github.io
-========================
+# Arke Industries
+
+A site for Arke Industries.
